@@ -5506,6 +5506,8 @@ float: left;
 .testi-author img{
     display: inline-block;
     margin-top: 15px;
+    width: 45px;
+    border-radius: 50%;
 }
 .single-testimonial p {
 	margin-bottom: 0;
@@ -7108,7 +7110,7 @@ background: #008060;
     display: none;
 }
 .f-widget-title img {
-    width: 167px;
+    width: 120px;
 }
 
 .footer-link ul li i {
@@ -13156,3 +13158,4 @@ color: #fff;
 .footer-top.wpding {
     background: #010c26;
 }
+
