@@ -684,7 +684,7 @@ color: #b8bfc3;
 }
 .slider-price h2 {
     color:#008060;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 500;
 }
 .slider-btn{
@@ -1390,7 +1390,7 @@ box-shadow: 1px 1.732px 60px 0px rgba(250, 63, 108, 0.1);
 	margin-bottom: 20px;
 }
 .slider-content h2 {
-    font-size: 70px;
+    font-size: 50px;
     letter-spacing: 1.0px;
     line-height: 1.2;
     margin-bottom: 40px;
@@ -1531,7 +1531,7 @@ left: inherit;
     background: #008060;
 }
 .second-slider-content h2 {
-	font-size: 90px;
+	font-size: 50px;
 	margin-bottom: 20px;
 }
 .second-slider-bg::before{opacity: .5;}
